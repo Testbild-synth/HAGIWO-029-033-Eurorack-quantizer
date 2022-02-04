@@ -1,12 +1,12 @@
 # HAGIWO-029-033-Eurorack-quantizer
-<img src="images/in_rack.jpg" width="20%" height="20%">
+<img src="images/in_rack.jpg" width="30%" height="30%">
 Through hole PCB version of the [HAGIWO Dual Quantizer](https://www.youtube.com/watch?v=6FJpljEYZq4) / [SH101 Sequencer](https://www.youtube.com/watch?v=--qb_QYZrTk) Eurorack Module. The modules uses a seeduino xiao and a mcp4725 dac.
 
 The dual quantizer quantizes to notes selectable on the screen and can automatically trigger an envelope on note changes.
 The SH101 sequencer allows recording and playback of cv sequences.
 
 ## Hardsware and PCB
-<img src="images/front_1.jpg" width="20%" height="20%"><img src="images/front_2.jpg" width="20%" height="20%">
+<img src="images/front_1.jpg" width="30%" height="30%"><img src="images/front_2.jpg" width="30%" height="30%">
 
 You can find the schematic and BOM in the root folder. For the PCBs, the module has three: main circuit pcb, control pcb and panel. You can order them on any common PCB manufacturing service, I used JLCPCB. Standard settings should be fine. I made them under 100mm if possible to get the discount price.
 
