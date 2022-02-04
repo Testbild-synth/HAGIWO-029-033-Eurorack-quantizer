@@ -5,7 +5,7 @@ Through hole PCB version of the [HAGIWO Dual Quantizer](https://www.youtube.com/
 The dual quantizer quantizes to notes selectable on the screen and can automatically trigger an envelope on note changes.
 The SH101 sequencer allows recording and playback of cv sequences.
 
-## CURRENT STATE: HARDWARE SHOULD WORK, SOFTWARE NEEDS A FEW MORE DAYS TO COMPLETE SINCE I HAVE ISSUE WITH THE ADC
+## CURRENT STATE: HARDWARE SHOULD WORK, SOFTWARE NEEDS A FEW MORE DAYS TO COMPLETE SINCE I HAVE AN ISSUE WITH THE ADC
 
 ## Hardsware and PCB
 <img src="images/front_1.jpg" width="30%" height="30%"><img src="images/front_2.jpg" width="30%" height="30%">
