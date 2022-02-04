@@ -13,6 +13,7 @@ You can find the schematic and BOM in the root folder. For the PCBs, the module 
 Currently, the hardware is mostly verified but there are still some software issues to resolve before I will upload the code.
 
 when ordering the display module, make sure to choose an 0.96 I2C oled module that has the pinout specified as GND-VCC-SCL-SDA as opposed to VCC-GND-SCL-SDA (both exist and the latter will fuck it up).
+<img src="images/display.jpg" width="30%" height="30%">
 
 ## Assembly
 
