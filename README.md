@@ -1,4 +1,4 @@
-# HAGIWO-029-033-Eurorack-quantizer
+# HAGIWO 029/033 Eurorack Quantizer Module
 <img src="images/in_rack.jpg" width="30%" height="30%">
 Through hole PCB version of the [HAGIWO Dual Quantizer](https://www.youtube.com/watch?v=6FJpljEYZq4) / [SH101 Sequencer](https://www.youtube.com/watch?v=--qb_QYZrTk) Eurorack Module. The modules uses a seeduino xiao and a mcp4725 dac.
 
