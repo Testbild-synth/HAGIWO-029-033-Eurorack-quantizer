@@ -21,6 +21,8 @@ If the panel size is not correctly detected by JLC (happens on some of my export
 
 when ordering the display module, make sure to choose an 0.96 I2C oled module that has the pinout specified as GND-VCC-SCL-SDA as opposed to VCC-GND-SCL-SDA (both exist and the latter will fuck it up).    
 
+Also make sure you order a Seediuno XIAO (with a SAMD21/Cortex M0 chip) as opposed to the XIAO esp32c3 or the XIAO rp2040, those are different chips.
+
 <img src="images/display.jpg" width="20%" height="20%">
 
 ## Assembly
